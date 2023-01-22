@@ -14,7 +14,7 @@ public class PushNewCode {
 	
 	public void test3() {
 		
-		System.out.println("Executed")
+		System.out.println("Executed");
 		
 	}
 		
