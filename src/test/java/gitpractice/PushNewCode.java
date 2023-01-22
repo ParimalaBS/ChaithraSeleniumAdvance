@@ -3,8 +3,10 @@ package gitpractice;
 import org.testng.annotations.Test;
 
 public class PushNewCode {
-	@Test
 	
+	
+	
+	@Test
 	public void test1() {
 		
 		System.out.println("Passed");
