@@ -14,6 +14,8 @@ public class PushNewCode {
 	
 	public void test3() {
 		
+		System.out.println("Executed")
+		
 	}
 		
 	public void test2() {
