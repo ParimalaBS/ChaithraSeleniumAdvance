@@ -3,15 +3,25 @@
   <reporter-output>
   </reporter-output>
   <suite started-at="2023-01-19T21:49:37 IST" name="Default suite" finished-at="2023-01-19T21:49:38 IST" duration-ms="245">
+  <suite started-at="2023-01-19T21:52:58 IST" name="Default suite" finished-at="2023-01-19T21:52:59 IST" duration-ms="172">
+
     <groups>
     </groups>
     <test started-at="2023-01-19T21:49:37 IST" name="Default test" finished-at="2023-01-19T21:49:38 IST" duration-ms="245">
       <class name="gitpractice.CreateNewCode">
         <test-method signature="codePushed()[pri:0, instance:gitpractice.CreateNewCode@163e4e87]" started-at="2023-01-19T21:49:37 IST" name="codePushed" finished-at="2023-01-19T21:49:38 IST" duration-ms="39" status="PASS">
+    <test started-at="2023-01-19T21:52:58 IST" name="Default test" finished-at="2023-01-19T21:52:59 IST" duration-ms="172">
+      <class name="gitpractice.PushNewCode">
+        <test-method signature="test1()[pri:0, instance:gitpractice.PushNewCode@163e4e87]" started-at="2023-01-19T21:52:59 IST" name="test1" finished-at="2023-01-19T21:52:59 IST" duration-ms="35" status="PASS">
+
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- codePushed -->
-      </class> <!-- gitpractice.CreateNewCode -->
+        </test-method> <!-- test1 -->
+      </class> <!-- gitpractice.PushNewCode -->
     </test> <!-- Default test -->
+        </test-method>
+      </class>
+    </test>
   </suite> <!-- Default suite -->
+  </suite>
 </testng-results>
