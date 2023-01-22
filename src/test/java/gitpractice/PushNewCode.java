@@ -9,5 +9,10 @@ public class PushNewCode {
 		
 		System.out.println("Passed");
 	}
+	
+	public void test2() {
+		
+		System.out.println("failed");
+	}
 
 }
